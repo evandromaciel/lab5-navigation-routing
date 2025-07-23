@@ -21,7 +21,7 @@ const AboutScreen = ({ navigation }) => {
 
           <View style={styles.infoContainer}>
             <Text style={styles.label}>Developer:</Text>
-            <Text style={styles.value}>Your Name</Text>
+            <Text style={styles.value}>Evandro Maciel</Text>
           </View>
 
           <View style={styles.infoContainer}>
